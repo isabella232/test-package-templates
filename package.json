@@ -1,0 +1,8 @@
+{
+  "name": "test-package-templates",
+  "version": "1.0.0",
+  "description": "A test of packaged dust templates",
+  "main": "index.js",
+  "author": "Aria Stewart <ariastewart@paypal.com>",
+  "license": "Apache-2.0"
+}
